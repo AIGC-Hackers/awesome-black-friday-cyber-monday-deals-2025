@@ -1,0 +1,143 @@
+name: 🔥 Submit Black Friday Deal
+description: Submit your Black Friday 2025 deal to be featured in our list
+title: "[DEAL] Your Product Name"
+labels: ["deal-submission", "pending-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting your Black Friday deal! 🎉
+
+        **What you get:**
+        - Free exposure to thousands of potential customers
+        - Quality backlink to your Black Friday page
+        - Social promotion on X/Twitter
+        - Feature on a1d.ai/black-friday (coming soon)
+
+        **Please fill out all required fields below.**
+
+  - type: input
+    id: product-name
+    attributes:
+      label: Product Name
+      description: The name of your product/service
+      placeholder: e.g., AwesomeApp
+    validations:
+      required: true
+
+  - type: input
+    id: black-friday-url
+    attributes:
+      label: Black Friday Page URL
+      description: Direct link to your Black Friday 2025 landing page (must be YOUR product, not an aggregation page)
+      placeholder: https://yoursite.com/black-friday-2025
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which category best fits your product?
+      options:
+        - 👨‍💻 Developer Tools
+        - 🤖 AI Tools
+        - 🎨 Design & Creative Tools
+        - 🌈 Marketing Tools
+        - 📊 SEO & Content Tools
+        - 🔐 Security & Privacy Tools
+        - 💼 Business & Finance Tools
+        - 🔥 Productivity Tools
+        - 📚 Books & Courses
+        - 🚀 Other (specify in description)
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Product Description
+      description: Brief description of your product (1-2 sentences max, around 100 characters)
+      placeholder: AI-powered project management tool with smart automation and team collaboration features.
+    validations:
+      required: true
+
+  - type: input
+    id: discount-code
+    attributes:
+      label: Discount Code
+      description: The promo code customers should use
+      placeholder: e.g., BLACKFRIDAY2025
+    validations:
+      required: true
+
+  - type: input
+    id: discount-amount
+    attributes:
+      label: Discount Amount
+      description: What's the discount? (e.g., "50% OFF", "Buy 1 Get 1 Free", "$100 OFF")
+      placeholder: e.g., 50% OFF annual plans
+    validations:
+      required: true
+
+  - type: input
+    id: valid-dates
+    attributes:
+      label: Valid Dates
+      description: When is this deal valid?
+      placeholder: e.g., Nov 20 - Dec 5, 2025
+    validations:
+      required: true
+
+  - type: dropdown
+    id: deal-type
+    attributes:
+      label: Deal Highlight
+      description: How should we highlight your deal?
+      options:
+        - ⭐ Featured (50%+ discount)
+        - 🔥 Hot Deal (70%+ discount)
+        - 💎 Premium Product
+        - 🚀 New Product/First Black Friday
+        - Regular (no special badge)
+      default: 4
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: requirements
+    attributes:
+      label: Requirements Checklist
+      description: Please confirm you meet all requirements
+      options:
+        - label: This is MY OWN product (not a blog post or aggregation page)
+          required: true
+        - label: I have a dedicated Black Friday 2025 page with the deal
+          required: true
+        - label: The discount code and dates are accurate
+          required: true
+        - label: This is a real product/service (not a referral scheme)
+          required: true
+
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Information (Optional)
+      description: Anything else we should know? Special features, limited quantity, etc.
+      placeholder: Limited to first 100 customers, includes 2000 bonus credits worth $50
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+
+        **What happens next?**
+
+        1. We'll verify your submission within 24 hours
+        2. If approved, we'll add your deal to the list
+        3. You'll get notified when it's live
+        4. Top deals get shared on our X/Twitter account
+
+        **Questions?** Comment below or check our [Contributing Guidelines](../CONTRIBUTING.md)
+
+        Thank you for contributing! 🙏
