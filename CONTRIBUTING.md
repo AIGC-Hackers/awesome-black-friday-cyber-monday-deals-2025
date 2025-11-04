@@ -22,7 +22,7 @@ By adding your Black Friday deal to this repository, you get:
 
 **Takes 2 minutes - Just fill out a form!**
 
-1. **Click here**: [Submit Your Deal](https://github.com/YOUR_USERNAME/awesome-black-friday-cyber-monday-deals-2025/issues/new?template=submit-deal.yml)
+1. **Click here**: [Submit Your Deal](https://github.com/AIGC-Hackers/awesome-black-friday-cyber-monday-deals-2025/issues/new?template=submit-deal.yml)
 2. **Fill out the form**:
    - Product name
    - Black Friday page URL

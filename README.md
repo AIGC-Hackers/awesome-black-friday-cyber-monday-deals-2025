@@ -10,7 +10,7 @@ Black Friday 2025 starts **November 28** - but deals are dropping NOW. Get 30-90
 
 **Get your Black Friday deal in front of thousands of potential customers:**
 
-### 📝 [Click Here to Submit Your Deal](https://github.com/YOUR_USERNAME/awesome-black-friday-cyber-monday-deals-2025/issues/new?template=submit-deal.yml)
+### 📝 [Click Here to Submit Your Deal](https://github.com/AIGC-Hackers/awesome-black-friday-cyber-monday-deals-2025/issues/new?template=submit-deal.yml)
 
 **Super easy - just fill out a 2-minute form!**
 
