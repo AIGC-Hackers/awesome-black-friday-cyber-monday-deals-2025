@@ -74,45 +74,7 @@ Submit these 5 things and you're good:
 
 **That's it.** No special Black Friday page required. Just clear info that people can verify.
 
-## Format
-
-Add your deal using this exact format:
-
-```markdown
-|  🔥 | [Your Product Name](https://your-black-friday-page-url) | Brief description of your product (1-2 sentences max) | XX% OFF with code **YOURCODE**. Valid Nov XX - Dec XX, 2025 |
-```
-
-### Emoji Guide
-
-- ⭐ - Featured/Popular deal
-- 🔥 - Hot deal (50%+ discount)
-- 💎 - Premium product
-- 🚀 - New product/First Black Friday
-
-## Category Guidelines
-
-Choose the most appropriate category for your product:
-
-- **👨‍💻 Developer Tools** - IDEs, debugging tools, APIs, development services
-- **🤖 AI Tools** - AI-powered software and services
-- **🌅 Design Tools** - Graphic design, UI/UX, video editing
-- **⌨️ Code Libraries** - NPM packages, frameworks, templates
-- **🔥 Productivity** - Task management, note-taking, time tracking
-- **🌈 Marketing Tools** - Email marketing, analytics, CRM
-- **🔍 SEO Tools** - SEO software, keyword research, analytics
-- **🚀 Startup SaaS/Tools** - Business tools for startups
-- **📚 Books** - Technical books, ebooks
-- **📹 Courses** - Online courses, video tutorials
-
-If your product doesn't fit existing categories, suggest a new one in your PR.
-
-## Example
-
-```markdown
-|  🔥 | [AwesomeApp](https://awesomeapp.com/pricing) | Project management tool with AI assistance | 50% OFF annual plans with code **BF2025**. Valid Nov 20 - Dec 5, 2025 |
-```
-
-See existing deals in the README for more examples.
+---
 
 ## ✅ After You Submit
 
