@@ -64,26 +64,17 @@ Format:
 
 </details>
 
-## Requirements
+## What You Need
 
-Your deal must meet ALL of these requirements:
+Submit these 5 things and you're good:
 
-### ✅ Must Have (Easy to Verify)
+1. **Your product URL** - Any page that shows the discount (pricing page, promo page, whatever)
+2. **Discount amount** - How much off? (e.g., "50% OFF", "$99 OFF")
+3. **Valid dates** - When does the deal run? (Nov/Dec 2025)
+4. **Discount code** - If you have one, provide it
+5. **Your own product** - Must be YOUR product/service
 
-1. **Valid URL** - Link must be accessible and load properly
-2. **Clear discount info** - Specific percentage/amount (e.g., "50% OFF", "$100 OFF")
-3. **Valid dates** - Must include start and end dates for the 2025 Black Friday period (Nov-Dec 2025)
-4. **Discount code** (if applicable) - Provide the actual code customers will use
-5. **YOUR OWN product** - Must be your product/service, not someone else's
-
-### ❌ NOT ALLOWED
-
-- Blog posts or articles listing other companies' deals
-- Affiliate links disguised as deals
-- Aggregation pages with multiple products
-- Referral schemes or MLM
-
-**Note**: We don't require a dedicated Black Friday page - a pricing page with clear discount info is fine. As long as the discount, dates, and link are verifiable, you're good to go.
+**That's it.** No special Black Friday page required. Just clear info that people can verify.
 
 ## Format
 
@@ -117,52 +108,13 @@ Choose the most appropriate category for your product:
 
 If your product doesn't fit existing categories, suggest a new one in your PR.
 
-## Pull Request Process
-
-1. Add your deal at the **END** of the chosen category
-2. Update the deal count in Table of Contents
-3. Ensure all links work correctly
-4. Verify your discount code is valid
-5. Create PR with title: `Add [Your Product Name] - [Category]`
-
-## What Will Be Rejected
-
-**Easy verification failures:**
-- ❌ URL is broken or doesn't load
-- ❌ No clear discount information visible on the page
-- ❌ Dates missing or already expired
-- ❌ Duplicate entry (already in the list)
-
-**Policy violations:**
-- ❌ Not your own product (blog posts, aggregation pages, affiliate links)
-- ❌ No actual discount offered
-- ❌ Referral schemes or MLM
-
-**If rejected, we'll tell you why and you can resubmit after fixing.**
-
-## Examples
-
-### ✅ Good Examples
+## Example
 
 ```markdown
-|  ⭐ | [AwesomeApp](https://awesomeapp.com/black-friday) | Project management tool with AI assistance | 50% OFF annual plans with code **BF2025**. Valid Nov 20 - Dec 5, 2025 |
+|  🔥 | [AwesomeApp](https://awesomeapp.com/pricing) | Project management tool with AI assistance | 50% OFF annual plans with code **BF2025**. Valid Nov 20 - Dec 5, 2025 |
 ```
 
-```markdown
-|  🔥 | [DevTool](https://devtool.io/pricing) | Code review automation platform | 70% OFF with code **CYBER70**. Valid Nov 25 - Dec 2, 2025 |
-```
-
-### ❌ Bad Examples
-
-**Missing dates:**
-```markdown
-|  ⭐ | [AwesomeApp](https://awesomeapp.com) | Project management tool | 50% OFF with code **SAVE50** |
-```
-
-**Not your product:**
-```markdown
-|  ⭐ | [My Blog](https://myblog.com/best-saas-deals-2025) | List of top 50 SaaS deals | Check them out! |
-```
+See existing deals in the README for more examples.
 
 ## ✅ After You Submit
 
