@@ -45,12 +45,10 @@ By adding your Black Friday deal to this repository, you get:
 
 ---
 
-### Alternative: Direct PR (For GitHub Experts)
+### Alternative: Pull Request
 
 <details>
-<summary>Click to expand if you prefer submitting a pull request</summary>
-
-If you're comfortable with Git:
+<summary>If you prefer, you can also submit via pull request</summary>
 
 1. Fork this repository
 2. Edit README.md
