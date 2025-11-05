@@ -68,12 +68,22 @@ Format:
 
 Your deal must meet ALL of these requirements:
 
-- ✅ Must explicitly mention "Black Friday 2025" or "Cyber Monday 2025"
-- ✅ Must have a dedicated Black Friday page for YOUR OWN product (e.g., yoursite.com/black-friday)
-- ✅ Must include specific discount percentage and dates
-- ✅ Must be for a real product/service (no referral schemes)
-- ❌ **NOT ALLOWED**: Blog posts listing other companies' deals (e.g., "Top 50 Black Friday SaaS Deals")
-- ❌ **NOT ALLOWED**: SEO content aggregating multiple deals
+### ✅ Must Have (Easy to Verify)
+
+1. **Valid URL** - Link must be accessible and load properly
+2. **Clear discount info** - Specific percentage/amount (e.g., "50% OFF", "$100 OFF")
+3. **Valid dates** - Must include start and end dates for the 2025 Black Friday period (Nov-Dec 2025)
+4. **Discount code** (if applicable) - Provide the actual code customers will use
+5. **YOUR OWN product** - Must be your product/service, not someone else's
+
+### ❌ NOT ALLOWED
+
+- Blog posts or articles listing other companies' deals
+- Affiliate links disguised as deals
+- Aggregation pages with multiple products
+- Referral schemes or MLM
+
+**Note**: We don't require a dedicated Black Friday page - a pricing page with clear discount info is fine. As long as the discount, dates, and link are verifiable, you're good to go.
 
 ## Format
 
@@ -117,23 +127,41 @@ If your product doesn't fit existing categories, suggest a new one in your PR.
 
 ## What Will Be Rejected
 
-- ❌ Blog posts aggregating other companies' deals (SEO content)
-- ❌ Expired or invalid deals
-- ❌ Affiliate links disguised as deals
-- ❌ Duplicate entries
-- ❌ Products with no actual discount
-- ❌ Adding deals to the middle of categories (must be at the end)
+**Easy verification failures:**
+- ❌ URL is broken or doesn't load
+- ❌ No clear discount information visible on the page
+- ❌ Dates missing or already expired
+- ❌ Duplicate entry (already in the list)
 
-## Example
+**Policy violations:**
+- ❌ Not your own product (blog posts, aggregation pages, affiliate links)
+- ❌ No actual discount offered
+- ❌ Referral schemes or MLM
 
-Good:
+**If rejected, we'll tell you why and you can resubmit after fixing.**
+
+## Examples
+
+### ✅ Good Examples
+
 ```markdown
-|  ⭐ | [AwesomeApp](https://awesomeapp.com/black-friday-2025) | Project management tool with AI assistance | 50% OFF annual plans with code **BF2025**. Valid Nov 20 - Dec 5, 2025 |
+|  ⭐ | [AwesomeApp](https://awesomeapp.com/black-friday) | Project management tool with AI assistance | 50% OFF annual plans with code **BF2025**. Valid Nov 20 - Dec 5, 2025 |
 ```
 
-Bad (no specific dates):
+```markdown
+|  🔥 | [DevTool](https://devtool.io/pricing) | Code review automation platform | 70% OFF with code **CYBER70**. Valid Nov 25 - Dec 2, 2025 |
+```
+
+### ❌ Bad Examples
+
+**Missing dates:**
 ```markdown
 |  ⭐ | [AwesomeApp](https://awesomeapp.com) | Project management tool | 50% OFF with code **SAVE50** |
+```
+
+**Not your product:**
+```markdown
+|  ⭐ | [My Blog](https://myblog.com/best-saas-deals-2025) | List of top 50 SaaS deals | Check them out! |
 ```
 
 ## ✅ After You Submit

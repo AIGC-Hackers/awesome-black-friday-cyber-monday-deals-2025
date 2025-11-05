@@ -110,13 +110,13 @@ body:
       label: Requirements Checklist
       description: Please confirm you meet all requirements
       options:
-        - label: This is MY OWN product (not a blog post or aggregation page)
+        - label: This is MY OWN product (not a blog post, aggregation page, or affiliate link)
           required: true
-        - label: I have a dedicated Black Friday 2025 page with the deal
+        - label: The URL I provided shows clear discount information
           required: true
-        - label: The discount code and dates are accurate
+        - label: The discount code and dates are accurate and valid
           required: true
-        - label: This is a real product/service (not a referral scheme)
+        - label: This is a real product/service (not a referral or MLM scheme)
           required: true
 
   - type: textarea
