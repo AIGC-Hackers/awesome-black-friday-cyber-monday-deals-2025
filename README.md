@@ -65,6 +65,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for requirements and details.
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🔥 | [Woorise](https://woorise.com/black-friday) | Create landing pages, forms, surveys, quizzes, viral giveaways & competitions. All-in-one platform for growing your audience and collecting leads. | 50% OFF on any plan with code **BLACKFRIDAY**. Valid Nov 24-30, 2025 |
+| 🚀 | [Firsto](https://firsto.co) | A product launch platform where every product gets seen | 20% OFF with code **BLACKFRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
 
