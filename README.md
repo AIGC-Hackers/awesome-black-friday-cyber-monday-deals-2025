@@ -1,5 +1,7 @@
 # 🔥 Black Friday 2025: SaaS Deals Hub
 
+[![Black Friday 2025 Header](https://pub-4e3f26902f504907bd7a786c7ea320e0.r2.dev/assets/black-friday-header-v2.avif)](https://a1d.ai/black-friday-deals-2025)
+
 **The go-to platform for SaaS Black Friday deals** - For Developers, Makers & Entrepreneurs
 
 Black Friday 2025 starts **November 28** - but deals are dropping NOW. Get 30-90% off the best SaaS tools.
