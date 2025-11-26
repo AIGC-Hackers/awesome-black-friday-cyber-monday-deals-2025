@@ -90,6 +90,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for requirements and details.
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🔥 | [iSsl.today](https://issl.today) | Simple SSL monitoring that alerts you when certificates expire. | 100% OFF with code **FREESSL**. Valid Now - Nov 30, 2025 |
+|  🔥 | [DeskMinder²](https://appps.od.ua/deskminder/) | A simple yet effective macOS app for people who get easily distracted. Create quick reminders & start tasks on your desktop | 50% OFF Lifetime. Valid Nov 24-28, 2025 |
 
 [⬆️ Go to Top](#table-of-contents)
 
