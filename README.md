@@ -70,6 +70,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for requirements and details.
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [iScan.today](https://iscan.today) | Advanced scanning tool empowers bug bounty hunters to find exposed secrets across platforms. Scan GitHub, GitLab, DockerHub, HuggingFace, NPM, and JavaScript files for exposed API keys, tokens, passwords, and sensitive data. | 50% OFF on all plans with code **ISCANBF25**. Valid Nov 10 - Dec 1, 2025 |
+|  ⭐ | [Exploit Pack](https://www.exploitpack.com/products/exploit-pack) | Gain access to a massive collection of over 39,500 exploit modules and zero-days from our lab. Build, customize, and deploy advanced testing scenarios to enhance the effectiveness of your engagements. | Lifetime licenses with code **LIFETIME**. Valid Nov 10 - Dec 1, 2025 |
+|  ⭐ | [Control Pack](https://www.exploitpack.com/products/control-pack) | Control Pack gives you full access to the most advanced and stealthiest post-exploitation C2 framework. | Lifetime licenses with code **LIFETIME**. Valid Nov 10 - Dec 1, 2025 |
+|  ⭐ | [Kernel Pack](https://www.exploitpack.com/products/kernel-pack)) | Kernel Pack is the game over tool that allows you to create your own rootkit (driver) and uses exploits to obtain ring-0 access. | Lifetime licenses with code **LIFETIME**. Valid Nov 10 - Dec 1, 2025 |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
